@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/8-todo_3sprint_lesson2/static/css/main.9b9e26d3.css",
+    "main.js": "/8-todo_3sprint_lesson2/static/js/main.f804a46f.js",
+    "index.html": "/8-todo_3sprint_lesson2/index.html",
+    "main.9b9e26d3.css.map": "/8-todo_3sprint_lesson2/static/css/main.9b9e26d3.css.map",
+    "main.f804a46f.js.map": "/8-todo_3sprint_lesson2/static/js/main.f804a46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9e26d3.css",
+    "static/js/main.f804a46f.js"
+  ]
+}
